@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "bcaxeplankstick",
+  "name": "Axe + Plank = Sticks",
+  "description" : "Place axe above plank, get sticks.",
+  "authors": ["BroccoliClock"],
+  "version": "1.0.0",
+  "dependencies": { 
+	"game": "",
+	"survival": ""
+  }
+}
